@@ -1,0 +1,3 @@
+io\curity\identityserver\plugin\paytm\paytmEmailProviderConfig.class
+io\curity\identityserver\plugin\paytm\paytmEmailProviderDescriptor.class
+io\curity\identityserver\plugin\paytm\paytmEmailSender.class
